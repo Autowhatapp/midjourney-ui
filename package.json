@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@ant-design/pro-components": "^2.4.9",
-    "@ant-design/pro-layout": "^7.10.3",
+    "@ant-design/pro-layout": "^7.22.6",
     "@types/netlify-identity-widget": "^1.9.4",
     "@vercel/analytics": "^1.0.1",
     "eventsource-parser": "^1.0.0",
