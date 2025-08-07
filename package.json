@@ -33,7 +33,7 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "@ant-design/pro-components": "^2.4.9",
+    "@ant-design/pro-components": "^2.8.9",
     "@ant-design/pro-layout": "^7.10.3",
     "@types/netlify-identity-widget": "^1.9.4",
     "@vercel/analytics": "^1.0.1",
